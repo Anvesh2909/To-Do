@@ -1,0 +1,65 @@
+.main{
+    width: 27rem;
+    height: 34.375rem;
+    background-color: white;
+    border-radius: 1.25rem;
+    margin-top: 95px;
+    margin-left: 570px;
+}
+body{
+    background-color: aqua;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    padding: 3.125rem 0rem 0rem 3.125rem;
+    font-size: 2rem;
+}
+.sub{
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+input{
+    height: 4vh;
+    width: 4vw;
+    
+}
+h4{
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+.one{
+    background-color: #f2fbfa;
+    width: 22rem;   
+    margin-left: 2.1875rem;
+}
+.two{
+    background-color: #f2fcff;
+    margin-left: 2.1875rem;
+    width: 22rem;
+}
+.three{
+    background-color: #f7f5fc;
+    margin-left: 2.1875rem;
+    width: 22rem;
+}
+#green{
+    background-color: #02ae9c;
+    width: 0.5rem;
+    height: 7.8125rem;
+}
+#blue{
+    background-color: #04c3f8;
+    width: 0.5rem;
+    height: 6rem;
+}
+#violet{
+    background-color: #5737c6;
+    width: 0.5rem;
+    height: 6rem;
+
+}
+
+
